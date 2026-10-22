@@ -3,3 +3,4 @@ bazel-*
 compile_commands.json
 .vscode/
 output.txt
+MODULE.bazel.lock
